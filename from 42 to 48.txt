@@ -1,0 +1,24 @@
+Snake and Ladders:
+-> board
+-> 1 dice
+Form : choose no. of players(2 or 3 or 4)
+name and greet
+-> roll the dice(mousePressed and random)
+-> with the number move the steps
+-> if snake move down and if ladder move up
+-> gameState "end" at 100
+
+Ludo:
+-> board
+-> 2 dice
+Form : choose no. of players(1(with computer) or 2 or 3 or 4)
+name and greet
+-> roll the dice(mousePressed and random)
+-> with the number move the steps
+-> with 1 or 6 the gameState will turn to "play"
+if not 1 or 6 the gameState "wait"
+-> gameState "end" if all 4 token are finshed with 1 full circle of
+the board. 
+
+
+
